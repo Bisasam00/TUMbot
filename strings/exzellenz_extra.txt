@@ -12,3 +12,5 @@ Der Zaun an der Mensa ist exzellent.
 Julius ist exzellent.
 :penguin: Exzellent!
 Johannes ist exzellent
+:eclipse: ist exzellent.
+:IntelliJ: ist exzellent.
